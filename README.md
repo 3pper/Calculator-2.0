@@ -4,7 +4,7 @@
 
 App where you can calculate simple numbers
 
-<img src="" width="500">
+<img src="https://github.com/3pper/Calculator-2.0/blob/main/Documantation/image.png" width="500">
 
 ## How to install 
 
